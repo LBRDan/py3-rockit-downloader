@@ -8,9 +8,11 @@ Python 3+
 BeautifulSoup4
 Requests
 
+Included in requirements.txt
+
 # Usage
 
     chmod +x download.py (first time)
     ./download.py rockit_album_url
 
-where *rockit_album_url* is the rockit URL of the album you want download.
+where _rockit_album_url_ is the rockit URL of the album you want download.
